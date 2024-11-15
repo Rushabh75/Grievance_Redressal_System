@@ -28,7 +28,7 @@ Here's how you can set up the project on your local machine.
 
 1. **Clone the Repository**:
    ```bash
-   git clone <GitHub-repository-URL>
+   git clone [<GitHub-repository-URL>](https://github.com/Rushabh75/Grievance_Redressal_System.git)
    cd Grievance_redressal_system
 
 2. **Install Dependencies:**:
