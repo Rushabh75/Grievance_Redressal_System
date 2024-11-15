@@ -6,7 +6,7 @@ Welcome to the Grievance Redressal System! This project is built with Django and
 
 https://github.com/user-attachments/assets/9bf9c9b5-043a-4051-bd8a-3c7b1f69c17b
 
-Click on the image above to watch the video demo of the project! You’ll get a walkthrough of how users can submit grievances, check their status, and how admins can manage everything from the dashboard.
+Watch the video demo of the project! You’ll get a walkthrough of how users can submit grievances, check their status, and how admins can manage everything from the dashboard.
 
 ## Features 🚀
 
