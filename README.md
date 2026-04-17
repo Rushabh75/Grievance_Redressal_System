@@ -1,4 +1,4 @@
-# Grievance Redressal System 🎉
+# SmartQuery Assist 🎉
 
 Welcome to the Grievance Redressal System! This project is built with Django and designed to help organizations and institutions manage complaints efficiently. Whether it's a customer, employee, or student, anyone can use this system to submit a grievance and track its resolution. 
 
